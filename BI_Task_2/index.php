@@ -1,3 +1,4 @@
+# This is a pure work by Sudhanshu Ranjan.
 <?php
 session_start();
 if(empty($_SESSION['username']))
